@@ -1,0 +1,64 @@
+body{
+
+    background-color: rgb(220, 227, 235);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+
+
+/* 
+font-family: 'Great Vibes', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Oxygen', sans-serif;
+ */
+
+/* Class selectors */
+ 
+
+    
+
+ .navbar{
+     font-family:'Oxygen' , sans-serif;
+     color: lawngreen;
+     
+     
+    
+ }
+
+ .collapse{
+     justify-content: center;
+     
+    }
+
+
+.img-fluid{
+    border-radius: 10px;
+    width:60%;
+    height: 30rem;
+    justify-content: center;
+    margin: auto;
+    opacity: 0.8;
+
+}
+
+
+
+.rounded{
+    width: 22rem;
+    height: 22rem;
+    padding: 1rem;
+
+}
+
+.suffer-doc-div-1{
+    padding: 10rem;
+    padding-bottom: 1rem;
+}
+
+
+.suffer-doc-div-2{
+    padding: 10rem;
+}
